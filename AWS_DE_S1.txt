@@ -4,3 +4,5 @@ going to Github as soon as possible.
 
 before that you need to navigate in this path and git init which creates .git in the folder i'm in.
 
+little change
+
